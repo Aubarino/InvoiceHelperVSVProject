@@ -1,0 +1,14 @@
+0. use this on a windows computer.
+1. follow any online guide on installing and setting up XAMPP.
+2. go to your xampp folder and then htdocs within that.
+3. put all the contents of this zip within that folder, so index.php is directly inside htdocs.
+4. open XAMPP control panel.
+5. press "Start" on the Apache module option.
+6. open CMD and enter the following
+	ipconfig | findstr /i “ipv4”
+7. copy your local IP from CMD
+8. go back into XAMPP control panel and note down the port numbers next to your Apache module start button.
+9. combine your local IP from before with one of your XAMPP Apache port, with a : inbetween.
+	Example : 192.168.1.41:80
+10. send that combined local IP and port to your mobile device.
+11. visit the URL on your mobile device. - done.
