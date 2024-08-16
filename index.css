@@ -2,13 +2,13 @@ body{
     background-color: rgb(245, 243, 237);
 }
 h1{
-    color: blue;
+    color: rgb(0, 132, 255);
 }
 p{
-    color: red;
+    color: rgb(110, 0, 55);
 }
 .img1{
-    border: 1px solid #f00;
+    border: 1px solid rgb(110, 0, 55);
     position: absolute;
     z-index: 0;
     top: 0px;
@@ -17,7 +17,7 @@ p{
     cursor: default;
 }
 .img2{
-    border: 1px solid #0f0;
+    border: 1px solid rgb(0, 132, 255);
     position: absolute;
     z-index: 1;
     top: 0px;
@@ -31,7 +31,7 @@ p{
     height: 60px;
     top: 302px;
     left: 210px;
-    background-color: rgba(255, 0, 0, 0.575);
+    background-color: rgb(110, 0, 55);
     cursor: pointer;
     z-index: 5;
 }
