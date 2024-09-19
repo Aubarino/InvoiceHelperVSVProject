@@ -12,3 +12,7 @@
 	Example : 192.168.1.41:80
 10. send that combined local IP and port to your mobile device.
 11. visit the URL on your mobile device. - done.
+
+View the github of the entire project here : https://github.com/Aubarino/InvoiceHelperVSVProject
+
+Also view the code for commenting / development notes and my reasoning around each thing / explaining stuff sometimes
